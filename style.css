@@ -38,13 +38,20 @@ a{
     margin: 0%;
 }
 a:hover{
-    background-color:burlywood;
-    color:black;
+    background-color:rgba(9, 9, 9, 0.273);
+    color:aliceblue;
 }
 .p1{
     float: left;
     font-family: Matura MT Script Capitals;
     color:burlywood;
+    font-size:x-large;
+    display: block;
+}
+.p1a{
+    float: left;
+    font-family: Matura MT Script Capitals;
+    color:aliceblue;
     font-size:x-large;
     display: block;
 }
@@ -68,7 +75,7 @@ a:hover{
 
 }
 .d3{
-    background-color: rgba(18, 17, 17, 0);
+    background-color: rgba(18, 17, 17, 0.489);
     height: 33%;
     width: 30%;
     border-radius: 5%;
